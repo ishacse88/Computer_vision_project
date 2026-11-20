@@ -45,5 +45,4 @@ streamlit run app.py
 - Automated fruit sorting
 - Edge device deployment
 
-## 👩‍💻 Author
-**Isha** | B.Tech Computer Science & Engineering
+
